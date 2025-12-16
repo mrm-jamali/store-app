@@ -1,7 +1,7 @@
 {
   "name": "store-project",
   "private": true,
-  "homepage": "https://USERNAME.github.io/store-app",
+  "homepage": "https://mrm-jamali.github.io/store-app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
