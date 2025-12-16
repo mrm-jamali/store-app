@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px;
+    min-height: 1000px;
+}
+.products{
+    width: 100%;
+}
+.empty {
+
+    display: flex;
+    justify-content: center;
+}
+.empty h2{
+    color: #fe5d42;
+}
